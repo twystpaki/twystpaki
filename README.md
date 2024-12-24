@@ -2,7 +2,7 @@
 
 - Web dev as a hobby (currently beginner level)
 - Love static website
-- Languages: 🇹🇭 Thai , 🇬🇧🇺🇸 English (ESL)
+- Languages: Thai, English (ESL)
 
 <!--
 **twystpaki/twystpaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
